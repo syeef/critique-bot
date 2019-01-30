@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 <img src="https://github.com/cloudflare-design/critique-bot/blob/master/logo.png?raw=true" width="100">
 
+=======
+>>>>>>> Update readme to include example
 # Critique bot
 
 A Google Chat bot that every week will randomly group the various design team members into groups of 3 and alert them to organise a crituqe session to openly discuss current works in progress and train our critique muscles.
