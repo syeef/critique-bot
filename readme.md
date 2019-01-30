@@ -9,8 +9,8 @@ If you're a new member to the design team, we would love for you to take part in
 ### Adding yourself
 
 - Send a message to Sam Mason to ask for your Google chat user id
-- Go to the main.js file
-- Click on the edit button and on line 9 you should see something like this
+- Go to the [main.js](https://github.com/cloudflare-design/critique-bot/blob/master/main.js) file
+- Click on the edit button (depicted as a pencil in the top right) and on `line 9` you should see something like this
 
 ```
 const people = [
@@ -28,4 +28,6 @@ const people = [
 ```
 
 - At the bottom of the page there is a box that says "Commit changes", add in a descriptive message about what change you have made e.g Added my id to the list of people
-- Then click the propose new chnage, this creates a Pull Request that will give the maintainers an opportunity to review the code change before merging it into the master branch.
+- Then click the "Commit changes" button, this creates a [Pull Request](https://help.github.com/articles/about-pull-requests/) that will give the maintainers an opportunity to review the code change before merging it into the master branch.
+
+Once your changes have been merged you will be alerted the next time the Critique bot runs (every Monday at 9am PST)
