@@ -30,6 +30,12 @@ const people = [
 {
   id: "Your user id goes here"
 }
+
+e.g.
+// Sam Mason de Caires
+{
+  id: '1234567890'
+}
 ```
 
 5. At the bottom of the page there is a box that says "Commit changes", add in a descriptive message about what change you have made e.g Added my id to the list of people
