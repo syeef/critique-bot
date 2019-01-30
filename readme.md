@@ -6,11 +6,11 @@ A Google Chat bot that every week will randomly group the various design team me
 
 ## Contributing
 
-If you're a new member to the design team, we would love for you to take part in these critique sessions. We would also love you to be able to contribute to our codebase and add yourself to this tool. Follow the instreuctions below on how to get started.
+If you're a new member to the design team, we would love for you to take part in these critique sessions. We would also love you to be able to contribute to our codebase and add yourself to this tool. Follow the instructions below on how to get started.
 
 ### Adding yourself
 
-1. Send a message to Sam Mason to ask for your Google chat user id
+1. Send a message to Sam Mason to ask for your Google Chat user id
 2. Go to the [main.js](https://github.com/cloudflare-design/critique-bot/blob/master/main.js) file
 3. Click on the edit button (depicted as a pencil in the top right) and on `line 9` you should see something like this
 
