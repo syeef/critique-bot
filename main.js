@@ -14,7 +14,7 @@ const people = [
   // Susan Lin
   {
     id: "101959280054230313273"
-  }
+  },
   // Nena Nguyen
   {
     id: "100583597779877243847"
