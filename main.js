@@ -28,8 +28,8 @@ const people = [
   {
     id: "105542853933774162871"
   },
-
   // Eric Tsai
+  {
     id: "117365904087525926439"
   },
   // Jenny Brecheisen
