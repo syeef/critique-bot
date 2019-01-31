@@ -1,6 +1,7 @@
 require("dotenv").config()
 const shuffle = require("lodash/shuffle")
 const chunk = require("lodash/chunk")
+const random = require("lodash/random")
 const got = require("got")
 
 const webhookUrl = process.env.WEBHOOK_URL
@@ -43,7 +44,19 @@ Organize a session with your selected peers this week. Bring Work in Progress at
 
 const genGroups = () => {
   const groups = chunk(shuffle(people), 3)
-  return groups.map((group, i) => {
+
+  const distributedGroups = groups.reduce((acc, curr, i, orig) => {
+    if (curr.length > 1) {
+      return [...acc, curr]
+    }
+
+    // Handle individuals by redistributing member into another group
+    const newArray = [...acc]
+    newArray[newArray.length - 1] = [...newArray[newArray.length - 1], curr[0]]
+    return newArray
+  }, [])
+
+  return distributedGroups.map((group, i) => {
     return `*Group #${i + 1}*
 ${group.map(p => ` <users/${p.id}>`)}`
   })
