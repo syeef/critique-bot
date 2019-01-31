@@ -2,11 +2,11 @@
 
 # Critique bot
 
-A Google Chat bot that every week will randomly group the various design team members into groups of 3 and alert them to organise a crituqe session to openly discuss current works in progress and train our critique muscles.
+A Google Chat bot that every week will randomly group the various design team members into groups of 3 and alert them to organise a critique session to openly discuss current works-in-progress and train our critique muscles.
 
 ## Contributing
 
-If you're a new member to the design team, we would love for you to take part in these critique sessions. We would also love you to be able to contribute to our codebase and add yourself to this tool. Follow the instructions below on how to get started.
+If you're a new member to the design team, we would love for you to take part in these critique sessions. We would also love for you to be able to contribute to our codebase and add yourself to this tool. Follow the instructions below on how to get started.
 
 ### Adding yourself
 
