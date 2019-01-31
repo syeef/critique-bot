@@ -26,6 +26,10 @@ const people = [
   // Syeef Karim
   {
     id: "105542853933774162871"
+  },
+  // Jenny Brecheisen
+  {
+    id: "100923929845693179002"
   }
 ]
 
