@@ -18,6 +18,10 @@ const people = [
   // Nena Nguyen
   {
     id: "100583597779877243847"
+  },
+  // Syeef Karim
+  {
+    id: "105542853933774162871"
   }
 ]
 
