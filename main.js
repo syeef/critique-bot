@@ -56,10 +56,12 @@ const genGroups = () => {
     return newArray
   }, [])
 
-  return distributedGroups.map((group, i) => {
-    return `*Group #${i + 1}*
+  return distributedGroups
+    .map((group, i) => {
+      return `*Group #${i + 1}*
 ${group.map(p => ` <users/${p.id}>`)}`
-  })
+    })
+    .join("\n")
 }
 
 const postMessage = async () => {
