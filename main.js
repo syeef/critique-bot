@@ -36,6 +36,10 @@ const people = [
   {
     id: "100923929845693179002"
   }
+ // Anna Effort
+  {
+    id: "118233036251054386896"
+  }  
 ]
 
 const mainMessage = `*It's critique time!*
