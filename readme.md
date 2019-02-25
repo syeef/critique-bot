@@ -37,6 +37,8 @@ e.g.
 
 5. At the bottom of the page there is a box that says "Commit changes", add in a descriptive message about what change you have made e.g Added my id to the list of people
 
-6. Then click the "Commit changes" button, this creates a [Pull Request](https://help.github.com/articles/about-pull-requests/) that will give the maintainers an opportunity to review the code change before merging it into the master branch.
+6. Then click the "Commit changes" button.
+
+7. Create a [Pull Request](https://help.github.com/articles/about-pull-requests/) that will give the maintainers an opportunity to review the code change before merging it into the master branch.
 
 Once your changes have been merged you will be alerted the next time the Critique bot runs (every Monday at 9am PST)
