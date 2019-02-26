@@ -39,6 +39,6 @@ e.g.
 
 6. Then click the "Commit changes" button.
 
-7. Create a [Pull Request](https://help.github.com/articles/about-pull-requests/) that will give the maintainers an opportunity to review the code change before merging it into the master branch.
+7. Create a [Pull Request](https://help.github.com/articles/about-pull-requests/) this will give the maintainers an opportunity to review the code change before merging it into the master branch.
 
 Once your changes have been merged you will be alerted the next time the Critique bot runs (every Monday at 9am PST)
