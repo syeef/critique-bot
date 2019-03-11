@@ -39,7 +39,31 @@ const people = [
  // Anna Effort
   {
     id: "118233036251054386896"
-  }  
+  },
+  // Pete Thomas
+  {
+    id: "108011242332638856283"
+  },
+  // Adam Morse
+  {
+    id: "112964725995980208418"
+  },
+  // Blake Mattos
+  {
+    id: "113332484063200195818"
+  },
+  // Jessica Rosenberg
+  {
+    id: "106127458863818216464"
+  },
+  // Kari Linder
+  {
+    id: "116969744742586241641"
+  },
+  // London Zhang
+  {
+    id: "103648591301058831240"
+  } 
 ]
 
 const mainMessage = `*It's critique time!*
